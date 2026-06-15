@@ -1,0 +1,53 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1E"/><stop offset="1" stop-color="#060A14"/></linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E5FF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <linearGradient id="slidebg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1226"/><stop offset="1" stop-color="#070B16"/></linearGradient>
+    <clipPath id="win"><rect x="40" y="36" width="1120" height="600" rx="18"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="680" fill="url(#bg)"/>
+
+  <!-- janela do app -->
+  <rect x="40" y="36" width="1120" height="600" rx="18" fill="#0B0F1A" stroke="rgba(255,255,255,0.08)"/>
+  <g clip-path="url(#win)">
+    <!-- barra de título -->
+    <rect x="40" y="36" width="1120" height="40" fill="#080C16"/>
+    <rect x="58" y="48" width="16" height="16" rx="5" fill="url(#ac)"/>
+    <text x="84" y="61" fill="#E6EDF3" font-size="13" font-weight="700">GCIA <tspan fill="rgba(255,255,255,0.45)" font-weight="400">— Gerador de Cursos com IA</tspan></text>
+    <text x="1075" y="62" fill="rgba(255,255,255,0.5)" font-size="16">—  ▢  ✕</text>
+
+    <!-- slide -->
+    <rect x="40" y="76" width="1120" height="560" fill="url(#slidebg)"/>
+    <!-- grade -->
+    <g stroke="rgba(255,255,255,0.03)">
+      <line x1="40" y1="140" x2="1160" y2="140"/><line x1="40" y1="240" x2="1160" y2="240"/><line x1="40" y1="340" x2="1160" y2="340"/><line x1="40" y1="440" x2="1160" y2="440"/><line x1="40" y1="540" x2="1160" y2="540"/>
+      <line x1="240" y1="76" x2="240" y2="636"/><line x1="440" y1="76" x2="440" y2="636"/><line x1="640" y1="76" x2="640" y2="636"/><line x1="840" y1="76" x2="840" y2="636"/><line x1="1000" y1="76" x2="1000" y2="636"/>
+    </g>
+    <!-- brilho -->
+    <circle cx="180" cy="120" r="320" fill="#00E5FF" opacity="0.05"/>
+    <!-- chip -->
+    <rect x="100" y="150" width="190" height="30" rx="15" fill="rgba(0,229,255,0.1)" stroke="rgba(0,229,255,0.35)"/>
+    <text x="118" y="170" fill="#00E5FF" font-size="13" font-weight="700" letter-spacing="2">ABERTURA DA AULA</text>
+    <!-- título -->
+    <text x="100" y="270" fill="#FFFFFF" font-size="62" font-weight="800">Crie suas</text>
+    <text x="100" y="345" fill="#FFFFFF" font-size="62" font-weight="800">vídeo-aulas com IA</text>
+    <rect x="102" y="380" width="150" height="5" rx="2.5" fill="url(#ac)"/>
+    <text x="100" y="445" fill="rgba(255,255,255,0.55)" font-size="20">Slides, narração e a sua câmera — em minutos.</text>
+
+    <!-- decoração concêntrica -->
+    <g stroke="rgba(0,229,255,0.18)" fill="none">
+      <circle cx="900" cy="380" r="150"/><circle cx="900" cy="380" r="100"/><circle cx="900" cy="380" r="55"/>
+    </g>
+    <rect x="868" y="350" width="64" height="48" rx="8" fill="none" stroke="url(#ac)" stroke-width="2"/>
+    <line x1="880" y1="366" x2="920" y2="366" stroke="url(#ac)" stroke-width="2"/><line x1="880" y1="376" x2="920" y2="376" stroke="url(#ac)" stroke-width="2"/><line x1="880" y1="386" x2="908" y2="386" stroke="url(#ac)" stroke-width="2"/>
+
+    <!-- câmera circular -->
+    <circle cx="1040" cy="510" r="86" fill="#11202e" stroke="url(#ac)" stroke-width="4"/>
+    <circle cx="1040" cy="480" r="30" fill="rgba(255,255,255,0.18)"/>
+    <path d="M992 560 q48 -54 96 0 z" fill="rgba(255,255,255,0.18)"/>
+    <circle cx="1100" cy="452" r="9" fill="#F85149"/>
+  </g>
+
+  <text x="600" y="668" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="14">GCIA — Gerador de Cursos com IA · © 2026 Vinícius Almeida</text>
+</svg>
