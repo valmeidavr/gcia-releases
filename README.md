@@ -10,7 +10,7 @@
   <a href="https://github.com/valmeidavr/gcia-releases/releases/latest"><img src="https://img.shields.io/badge/⬇%EF%B8%8F%20Baixar-00B3CC?style=for-the-badge" alt="Baixar"></a>
 
   <br/><br/>
-  <img src="mockup.svg" width="780" alt="GCIA — prévia" />
+  <img src="gcia-01-home.png" width="860" alt="GCIA — tela principal" />
 </div>
 
 ---
@@ -35,11 +35,25 @@ O GCIA é vendido por **licença**. Para adquirir a sua, fale comigo:
 ## ✨ O que o GCIA faz
 
 - 🤖 **Cria cursos com IA** — descreva o tema de **qualquer área** (Excel, Matemática, Inglês, Marketing, Biologia, Violão...) e a IA monta o curso inteiro.
+- 🧠 **Escolha a sua IA** — use **OpenAI** (GPT-4o) ou **Claude** (Sonnet 4.6 / Opus 4.8 / Haiku 4.5) e **troque de modelo em tempo real**.
 - 🎙️ **Narração do seu jeito** — voz de **IA** ou **grave a sua voz** no teleprompter embutido.
 - 🎥 **Você no vídeo** — câmera num círculo ajustável, com **fundo virtual estilo Zoom** (desfoque, cor ou imagem).
 - ✏️ **Editor de slides** — edite textos, tópicos e imagens; refaça uma aula com IA.
 - 🖥️ **Aula presencial** — slides no **projetor** + teleprompter no notebook.
 - 📄 **PDF dos slides** · 🔄 **Atualização automática**.
+
+## 🖼️ Telas do sistema
+
+<div align="center">
+
+<b>Criar curso — escolha a IA (OpenAI ou Claude) e troque quando quiser</b><br/>
+<img src="gcia-02-criar.png" width="780" alt="Criar curso com OpenAI" /><br/><br/>
+<img src="gcia-03-criar-claude.png" width="780" alt="Criar curso com Claude" /><br/><br/>
+
+<b>Editor de slides</b><br/>
+<img src="gcia-04-editor.png" width="780" alt="Editor de slides" />
+
+</div>
 
 ## ⬇️ Como baixar e instalar
 
