@@ -40,6 +40,7 @@ O GCIA é vendido por **licença**. Para adquirir a sua, fale comigo:
 - 🎥 **Você no vídeo** — câmera num círculo ajustável, com **fundo virtual estilo Zoom** (desfoque, cor ou imagem).
 - ✏️ **Editor de slides** — edite textos, tópicos e imagens; refaça uma aula com IA.
 - 🖥️ **Aula presencial** — slides no **projetor** + teleprompter no notebook.
+- 📘 **Apostila em PDF** — gere a apostila do curso com a IA: **capa com o seu logo**, **cor da escola**, conteúdo passo a passo com exemplos, exercícios e **referências bibliográficas**. Edite o texto **na própria página** (clique e digite, com reflow automático), arraste objetos e exporte o **PDF** com vários **temas** prontos.
 - 📄 **PDF dos slides** · 🔄 **Atualização automática**.
 
 ## 🖼️ Telas do sistema
